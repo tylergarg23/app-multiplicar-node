@@ -1,0 +1,17 @@
+{
+    "name": "03-bases-node",
+    "version": "1.0.0",
+    "description": "Aplicacion de línea de comandos",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Tyler García",
+    "license": "ISC",
+    "dependencies": {
+        "yargs": "^16.1.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    }
+}
